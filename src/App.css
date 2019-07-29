@@ -1,3 +1,12 @@
+@import url("https://unpkg.com/leaflet@1.0.1/dist/leaflet.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.3/leaflet.draw.css");
+.leaflet-container{
+  height: 700px;
+  width: 100%;
+}
+.sr-only {
+  display: none;
+}
 .App {
   text-align: center;
 }
